@@ -1,0 +1,19 @@
+# System (macOS) stuff to keep out of all repos
+._*
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.localized
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Icon
+Icon
+Network Trash Folder
+Temporary Items

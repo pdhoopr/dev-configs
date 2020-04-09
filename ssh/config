@@ -1,0 +1,5 @@
+Host *  # This could also be a specific hostname like `github.com` or an alias like `api`
+        AddKeysToAgent yes # Load SSH keys into the `ssh-agent` automatically`
+        HashKnownHosts yes # Cryptographically hash hostnames in `~/.ssh/known_hosts` instead of leaving them in plain text
+        IdentityFile PATH_TO_YOUR_SSH_KEY  # `~/.ssh/id_rsa` or some other path to the SSH key you want to use for this host
+        UseKeychain yes # Specify that you'd like passphrases to be stored in the keychain
