@@ -38,6 +38,7 @@ Before running the script, you should look it over to make sure you're okay with
 - [Firefox](https://www.mozilla.org/firefox)
 - [Google Backup and Sync](https://www.google.com/drive)
 - [ImageOptim](https://imageoptim.com/mac)
+- [Kap](https://getkap.co)
 - [Rectangle](https://rectangleapp.com)
 - [Rocket](https://matthewpalmer.net/rocket)
 - [Slack](https://slack.com)

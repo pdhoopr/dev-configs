@@ -67,6 +67,7 @@ declare -a brewapplications=(
   'firefox'
   'google-backup-and-sync'
   'imageoptim'
+  'kap'
   'rectangle'
   'rocket'
   'slack'
