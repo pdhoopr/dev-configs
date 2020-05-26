@@ -52,3 +52,4 @@ Extensions can be installed by going to the "Extensions" view in the View Bar on
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)

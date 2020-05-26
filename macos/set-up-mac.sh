@@ -106,6 +106,7 @@ declare -a extensions=(
   'humao.rest-client'
   'stylelint.vscode-stylelint'
   'gruntfuggly.todo-tree'
+  'jpoissonnier.vscode-styled-components'
 )
 for ext in "${extensions[@]}"
 do
