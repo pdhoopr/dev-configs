@@ -26,7 +26,3 @@ A special version of a `.gitignore` file called a `.gitignore_global` file can b
 1. Create a file called `.gitignore_global` in the top-level of your user folder (your `Home` folder on macOS; accessed by the shortcut `~` on the command-line).
 2. Use [this list of globally useful gitignores](https://github.com/github/gitignore/tree/master/Global) or [this `.gitignore_global` file](.gitignore_global) (note that the `Icon` rules should follow [this format](https://stackoverflow.com/questions/17556250/how-to-ignore-icon-in-git)) as a reference for some rules you might add.
 3. Run the command `git config --global core.excludesfile ~/.gitignore_global` to tell Git to use the file you created in steps 1 and 2.
-
-## Hub
-
-[Hub](https://hub.github.com) is a wrapper on top of Git that extends its features/commands and makes it easier to work with GitHub. Definitely check it out if you haven't before!

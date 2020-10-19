@@ -20,7 +20,7 @@ Before running the script, you should look it over to make sure you're okay with
 
 - [bash-completion](https://github.com/scop/bash-completion)
 - [Git](https://git-scm.com)
-  - [Hub](https://hub.github.com)
+  - [GitHub CLI](https://cli.github.com)
 - [rmtrash](https://github.com/PhrozenByte/rmtrash)
 
 ### Programming Languages

@@ -9,7 +9,7 @@ xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Install utilities using Homebrew
-brew install bash-completion git hub rmtrash
+brew install bash-completion gh git rmtrash
 
 # Configure system not to yell about using Bash instead of ZSH
 echo 'export BASH_SILENCE_DEPRECATION_WARNING=1' >> ~/.bash_profile
@@ -33,9 +33,6 @@ fi' >> ~/.bash_profile
 # Add Git info to Bash prompt
 echo 'export GIT_PS1_SHOWDIRTYSTATE=1' >> ~/.bash_profile
 echo 'export PS1='\''\[\033[0;36m\]\w\[\033[0m\]\[\033[0;90m\]$(__git_ps1 " (%s)")\[\033[0m\]\n🔥 '\' >> ~/.bash_profile
-
-# Proxy all Git commands through hub
-echo 'eval "$(hub alias -s)"' >> ~/.bash_profile
 
 # Configure grep to always colorize output
 echo 'alias grep="grep --color=auto"' >> ~/.bash_profile
