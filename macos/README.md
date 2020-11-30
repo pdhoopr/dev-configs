@@ -32,7 +32,6 @@ Before running the script, you should look it over to make sure you're okay with
 ### Applications
 
 - [AppCleaner](https://freemacsoft.net/appcleaner)
-- [Brave](https://brave.com)
 - [Figma](https://www.figma.com)
 - [Firefox](https://www.mozilla.org/firefox)
 - [Google Backup and Sync](https://www.google.com/drive)

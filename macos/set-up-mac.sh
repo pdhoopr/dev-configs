@@ -58,7 +58,6 @@ brew tap homebrew/cask-drivers
 # Install applications using Homebrew Cask
 declare -a brewapplications=(
   'appcleaner'
-  'brave-browser'
   'figma'
   'firefox'
   'google-backup-and-sync'
