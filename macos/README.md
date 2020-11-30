@@ -31,7 +31,6 @@ Before running the script, you should look it over to make sure you're okay with
 
 ### Applications
 
-- [Android Messages Desktop](https://github.com/chrisknepper/android-messages-desktop)
 - [AppCleaner](https://freemacsoft.net/appcleaner)
 - [Brave](https://brave.com)
 - [Figma](https://www.figma.com)

@@ -57,7 +57,6 @@ brew tap homebrew/cask-drivers
 
 # Install applications using Homebrew Cask
 declare -a brewapplications=(
-  'android-messages'
   'appcleaner'
   'brave-browser'
   'figma'
